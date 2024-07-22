@@ -5,11 +5,11 @@ You can click the Preview link to take a look at your changes.
 --->
 ## Oi eu sou a Fátima Oliveira :woman_technologist:
 
-<br> <h3> Estou no quarto semestre de Analise e Desenvolvimento de Sistemas <br/> 
+<br> <h3> Recém formada em Analise e Desenvolvimento de Sistemas <br/> 
 
-<br> Aprendendo programação, HTML, CSS, C# e banco de dados, SQL, MySql <br/>  
+<br> Aprendendo programação, HTML, CSS, JavaScript, C# e banco de dados <br/>  
 
-<br> Em busca de um Estagio, ou uma oportunidade para ingressar no mercado de 
+<br> Em busca de uma oportunidade para ingressar no mercado de 
 trabalho  <br/>
 
  <br>No momento estou no curso de introdução a programação da Proz Educação  <br/> 
