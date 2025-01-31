@@ -5,14 +5,15 @@ You can click the Preview link to take a look at your changes.
 --->
 ## Oi eu sou a Fátima Oliveira :woman_technologist:
 
-<br> <h3> Recém formada em Analise e Desenvolvimento de Sistemas <br/> 
+<br> <h3> Recém formada em Analise e Desenvolvimento de Sistemas, busco uma vaga em front end <br/> 
 
-<br> Aprendendo programação, HTML, CSS, JavaScript, C# e banco de dados <br/>  
+<br> Aprendendo programação, HTML, CSS e JavaScript <br/>  
 
 <br> Em busca de uma oportunidade para ingressar no mercado de 
 trabalho  <br/>
 
- <br>No momento estou no curso de introdução a programação da Proz Educação  <br/> 
+ <br>Recentemente fiz um curso de 300 hrs de introdução a programação com foco em front end da Proz Educação 
+ e fiz a imersão da Alura clone do Spotify <br/> 
 
 
  ## Conecte-se comigo
