@@ -5,15 +5,9 @@ You can click the Preview link to take a look at your changes.
 --->
 ## Oi eu sou a Fátima Oliveira :woman_technologist:
 
-<br> <h3> Recém formada em Analise e Desenvolvimento de Sistemas <br/> 
+<br> <h3> Atuando como dev Jr <br/> 
 
 <br> Aprendendo programação <br/>  
-
-<br> Em busca de uma oportunidade para ingressar no mercado de 
-trabalho  <br/>
-
- <br>Estou no bootcamp de java fullstack da Generation Brasil <br/> 
-
 
  ## Conecte-se comigo
 
